@@ -1,0 +1,5 @@
+Hello this is a wonderful day 
+Today we will be doing a complete mastery on nodejs
+As, we will be only practing nodejs core 
+And I am glad I have udemy for additional resource along with youtube to learn about the nodejs
+So, this is a beautiful day and lets learn more about nodejs
