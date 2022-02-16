@@ -1,0 +1,4 @@
+Hello welcome to another file
+We are trying to know what happen if we read 2 stream file
+So, this is just a test to know what happen if we read stream from 2 file 
+So, lets see what happen
